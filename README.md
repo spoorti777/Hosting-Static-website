@@ -1,9 +1,9 @@
 # Hosting-Static-website
 
-#Firstly create the bucket in Amazon s3 bucket
-#Go to create bucket and give a unique name as i have given (carvilla1) and enable ACLs so the access to the bucket and the objects can be specified.
-![alt text](<Screenshot 2024-12-06 142956-1.png>)
-#A list of uploaded files in an S3 bucket named carvilla1.
+# Firstly create the bucket in Amazon s3 bucket
+# Go to create bucket and give a unique name as i have given (carvilla1) and enable ACLs so the access to the bucket and the objects can be specified.
+# ![alt text](<Screenshot 2024-12-06 142956-1.png>)
+# A list of uploaded files in an S3 bucket named carvilla1.
 ![alt text](<Screenshot 2024-12-05 230804.png>)
 #Editing settings for enabling Static Website Hosting in the S3 bucket.
 #The hosting type options include:
